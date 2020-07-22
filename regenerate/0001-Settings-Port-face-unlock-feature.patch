@@ -133,8 +133,9 @@ index 8e4149aec36..5a71c509b98 100644
      settings-log-bridge-protos-lite \
      contextualcards \
      settings-logtags \
--    zxing-core-1.7
+     airbnb-lottie \
 +    zxing-core-1.7 \
+-    zxing-core-1.7
 +    faceunlock_utils
  
  LOCAL_PROGUARD_FLAG_FILES := proguard.flags
